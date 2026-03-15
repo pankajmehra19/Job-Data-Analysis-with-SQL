@@ -31,6 +31,9 @@ UNION Operations
 Salary and Skill Demand Analysis
 
 Project Structure
+## Project Structure
+
+```
 Job-Data-Analysis-with-SQL
 │
 ├── csv_files
@@ -43,6 +46,7 @@ Job-Data-Analysis-with-SQL
 │   └── scripts used to load datasets into the database
 │
 └── README.md
+```
 Key Analyses Performed
 
 Identification of the highest paying Data Analyst roles based on salary data.
